@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/AntonioLangiu/holdthembot/bot"
-	"github.com/AntonioLangiu/holdthembot/common"
+	"github.com/atef1374/video-note/bot"
+	"github.com/atef1374/video-note/common"
 )
 
 func main() {
